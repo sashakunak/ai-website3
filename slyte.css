@@ -156,3 +156,8 @@ boby{
     margin: 20px auto;
     border-radius: 10px;
 }
+.gallery img {
+    width: 20%; /* ЗМЕНШИЛИ РОЗМІР */
+    border-radius: 8px;
+    object-fit: cover;
+}
