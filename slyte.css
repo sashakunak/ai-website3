@@ -144,3 +144,10 @@ boby{
      color: #333;
      line-height: 1.6;
 }
+.hero-image {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
